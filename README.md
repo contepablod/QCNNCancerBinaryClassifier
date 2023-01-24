@@ -4,6 +4,8 @@ Quantum Convolutional Neural Network to classify esophagus cancer
 
 Data Challenge: Data Challenge by Mauna Kea (Challenge Link: https://challengedata.ens.fr/participants/challenges/11/)
 
+The Dataset is a subset of the full image dataset.
+
 ## References
 
 1.Hybrid quantum-classical Neural Networks with PyTorch and Qiskit: https://qiskit.org/textbook/ch-machine-learning/machine-learning-qiskit-pytorch.html
