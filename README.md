@@ -1,6 +1,6 @@
-# QCNNCancerClassifier
+# QCNNCancerBinaryClassifier
 
-Quantum Convolutional Neural Network to classify esophagus cancer
+Quantum Convolutional Neural Network to classify esophagus cancer images
 
 Data Challenge: Data Challenge by Mauna Kea (Challenge Link: https://challengedata.ens.fr/participants/challenges/11/)
 
@@ -19,6 +19,5 @@ The Dataset is a subset of the full image dataset.
 5.Machine Learning & IA for the Working Analyst - Colegio de Matemáticas Bourbaki - Mexico
 - https://www.colegio-bourbaki.com/
 - LinkedIn: Colegio Bourbaki
-
 
 6.Qiskit Slack Channel (qiskit.slack.com) - Special Thanks to Owen Lockwood & Anton Dekusar
